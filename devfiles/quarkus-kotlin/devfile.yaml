@@ -9,7 +9,7 @@ projects:
       type: git
       branch: master
 components:
-  - id: blues-man/quarkus-kotlin/latest
+  - id: fwcd/quarkus-kotlin/latest
     type: chePlugin
   -
     type: dockerimage
